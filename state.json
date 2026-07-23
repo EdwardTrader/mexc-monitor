@@ -1,6 +1,7 @@
 {
   "st_symbols": [
     "ABBCUSDT",
+    "AORAUSDT",
     "ASSUSDT",
     "ATWOUSDT",
     "AUCUSDT",
@@ -28,6 +29,7 @@
     "HNSUSDT",
     "HONEYUSDT",
     "KARRATUSDT",
+    "KAZARUSDT",
     "KUVIUSDT",
     "LBCUSDT",
     "LLDUSDT",
@@ -64,7 +66,6 @@
     "SOLANGELESUSD1",
     "SOLANGELESUSDT",
     "SPACEMVCUSDT",
-    "SPAUSDT",
     "SPCFINUSDT",
     "SPLDUSDT",
     "SRDSUSDT",
@@ -73,6 +74,9 @@
     "TAIXUSDT",
     "TARAUSDT",
     "TERRAUSDT",
+    "TESTIBULLUSD1",
+    "TESTIBULLUSDT",
+    "TOYLUSDT",
     "TRCLUSDT",
     "TRU1USDT",
     "TRUFUSDT",
