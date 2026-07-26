@@ -1,7 +1,6 @@
 {
   "st_symbols": [
     "ABBCUSDT",
-    "AORAUSDT",
     "ASSUSDT",
     "AUCUSDT",
     "COMAIUSDT",
@@ -13,7 +12,6 @@
     "GRMUSDT",
     "HELIUSDT",
     "HNSUSDT",
-    "KAZARUSDT",
     "KUVIUSDT",
     "LBCUSDT",
     "LOOPUSDT",
@@ -41,9 +39,6 @@
     "TAIXUSDT",
     "TARAUSDT",
     "TERRAUSDT",
-    "TESTIBULLUSD1",
-    "TESTIBULLUSDT",
-    "TOYLUSDT",
     "TRU1USDT",
     "UNCUSD1",
     "VEXUSDT",
