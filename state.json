@@ -3,6 +3,8 @@
     "ABBCUSDT",
     "ASSUSDT",
     "AUCUSDT",
+    "BIBIUSD1",
+    "BIBIUSDT",
     "CODEXUSDT",
     "COMAIUSDT",
     "DEBUSDT",
@@ -41,6 +43,8 @@
     "PMGUSDT",
     "PPCUSDT",
     "RBTUSDT",
+    "RTMUSD1",
+    "RTMUSDT",
     "SAFE4USDT",
     "SDEXUSDT",
     "SDRUSDT",
@@ -60,6 +64,7 @@
     "XLSUSDT",
     "XPXUSDT",
     "XRPCUSDT",
-    "XYMUSDT"
+    "XYMUSDT",
+    "ZYNUSDT"
   ]
 }
