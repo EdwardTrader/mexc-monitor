@@ -3,6 +3,7 @@
     "ABBCUSDT",
     "ASSUSDT",
     "AUCUSDT",
+    "BNCUSDT",
     "COMAIUSDT",
     "CSWAPUSDT",
     "DEBUSDT",
@@ -20,7 +21,9 @@
     "MATHUSDT",
     "MCNUSDT",
     "MLXCUSDT",
+    "MORIUSDT",
     "MOVAUSDT",
+    "NEETUSDT",
     "OBIUSDT",
     "PARTUSDT",
     "PENDULUMUSDT",
@@ -45,6 +48,7 @@
     "WTAUSDT",
     "XLSUSDT",
     "XPXUSDT",
-    "XRPCUSDT"
+    "XRPCUSDT",
+    "XUSDT"
   ]
 }
