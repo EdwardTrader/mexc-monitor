@@ -23,6 +23,7 @@
     "ELFUSDT",
     "EURRUSDT",
     "GCBUSDT",
+    "GPUBSCUSD1",
     "GPUBSCUSDT",
     "GPUUSDT",
     "GRMUSDT",
@@ -40,6 +41,7 @@
     "MASSUSDT",
     "MATHUSDT",
     "MCNUSDT",
+    "MEZOUSDC",
     "MEZOUSDT",
     "MLXCUSDT",
     "MORIUSDT",
@@ -79,7 +81,9 @@
     "XLSUSDT",
     "XPXUSDT",
     "XRPCUSDT",
+    "ZEROUSD1",
     "ZEROUSDT",
+    "币有USD1",
     "币有USDT"
   ]
 }
