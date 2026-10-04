@@ -5,8 +5,6 @@
     "AXMUSDT",
     "BOSONUSDT",
     "BZRUSDT",
-    "CMEUSD1",
-    "CMEUSDT",
     "DEBUSDT",
     "DIONEUSDT",
     "ELFUSDT",
@@ -23,10 +21,7 @@
     "NEXMUSDT",
     "NTXUSDT",
     "OBIUSDT",
-    "OGPUUSDT",
-    "ONIUSDT",
     "OPTIMUSUSDT",
-    "PALCOINUSDT",
     "PARTUSDT",
     "PEIPEIUSDT",
     "PENDULUMUSDT",
@@ -53,7 +48,6 @@
     "XLSUSDT",
     "XPXUSDT",
     "XRPCUSDT",
-    "XXUSDT",
-    "XYMUSDT"
+    "XXUSDT"
   ]
 }
