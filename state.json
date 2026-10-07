@@ -2,12 +2,16 @@
   "st_symbols": [
     "1R0RUSDT",
     "ABBCUSDT",
+    "ALLINUUSD1",
+    "ALLINUUSDT",
     "ANTFUNUSDT",
     "ASSUSDT",
     "AXMUSDT",
     "BOSONUSDT",
     "BZRUSDT",
     "CNGUSDT",
+    "COOLUSD1",
+    "COOLUSDT",
     "DEBUSDT",
     "DIONEUSDT",
     "EFFECTUSDT",
@@ -24,8 +28,11 @@
     "ICNTUSDT",
     "KASPYUSDT",
     "LBCUSDT",
+    "LONGUSD1",
+    "LONGUSDT",
     "MASSUSDT",
     "MLXCUSDT",
+    "MODAUSDT",
     "NEARKATUSD1",
     "NEARKATUSDT",
     "NEXMUSDT",
@@ -62,6 +69,8 @@
     "XPXUSDT",
     "XRPCUSDT",
     "XWGTUSDT",
-    "XXUSDT"
+    "XXUSDT",
+    "果蝇USD1",
+    "果蝇USDT"
   ]
 }
