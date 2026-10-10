@@ -1,8 +1,6 @@
 {
   "st_symbols": [
     "ABBCUSDT",
-    "ALLINUUSD1",
-    "ALLINUUSDT",
     "ASSUSDT",
     "AXMUSDT",
     "BFTUSDT",
@@ -29,13 +27,10 @@
     "HOODRATUSD1",
     "HOODRATUSDT",
     "LBCUSDT",
-    "LONGUSD1",
-    "LONGUSDT",
     "MASSUSDT",
     "MAXUSD1",
     "MAXUSDT",
     "MLXCUSDT",
-    "MODAUSDT",
     "NTXUSDT",
     "NUDESUSD1",
     "NUDESUSDT",
@@ -70,8 +65,6 @@
     "XFIUSDT",
     "XPXUSDT",
     "XRPCUSDT",
-    "XXUSDT",
-    "果蝇USD1",
-    "果蝇USDT"
+    "XXUSDT"
   ]
 }
