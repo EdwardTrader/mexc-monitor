@@ -26,8 +26,6 @@
     "KNOTSUSD1",
     "KNOTSUSDT",
     "LBCUSDT",
-    "MAMEUSD1",
-    "MAMEUSDT",
     "MASSUSDT",
     "MCNUSDT",
     "MINTUSDT",
@@ -36,7 +34,7 @@
     "MOEUSDT",
     "NAVIUSDT",
     "NEARLYUSD1",
-    "NOMOXUSDT",
+    "NEARLYUSDT",
     "NTXUSDT",
     "OBIUSDT",
     "OPTIMUSUSDT",
@@ -60,11 +58,11 @@
     "SPACEMVCUSDT",
     "SPLDUSDT",
     "SRDSUSDT",
+    "STOCKERUSD1",
+    "STOCKERUSDT",
     "SYSUSDT",
     "TARAUSDT",
     "TINAUSDT",
-    "TOADUSD1",
-    "TOADUSDT",
     "TREATUSDT",
     "TRU1USDT",
     "VEXUSDT",
@@ -75,6 +73,8 @@
     "XINUSDT",
     "XPXUSDT",
     "XRPCUSDT",
-    "XXUSDT"
+    "XXUSDT",
+    "ZCUSD1",
+    "ZCUSDT"
   ]
 }
