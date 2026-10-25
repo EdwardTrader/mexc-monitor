@@ -4,7 +4,6 @@
     "ASSUSDT",
     "AXMUSDT",
     "AZURUSDT",
-    "BFTUSDT",
     "BOSONUSDT",
     "BTXUSDT",
     "BZRUSDT",
@@ -51,8 +50,6 @@
     "SPACEMVCUSDT",
     "SPLDUSDT",
     "SRDSUSDT",
-    "STOCKERUSD1",
-    "STOCKERUSDT",
     "SYSUSDT",
     "TARAUSDT",
     "TINAUSDT",
@@ -64,8 +61,6 @@
     "XFIUSDT",
     "XPXUSDT",
     "XRPCUSDT",
-    "XXUSDT",
-    "ZCUSD1",
-    "ZCUSDT"
+    "XXUSDT"
   ]
 }
