@@ -1,7 +1,11 @@
 {
   "st_symbols": [
     "ABBCUSDT",
+    "AGENCYUSD1",
+    "AGENCYUSDT",
     "ASSUSDT",
+    "BORDRUSD1",
+    "BORDRUSDT",
     "BZRUSDT",
     "COOLUSD1",
     "COOLUSDT",
@@ -19,6 +23,7 @@
     "KAGUSDT",
     "LBCUSDT",
     "MASSUSDT",
+    "MASUSDT",
     "MCNUSDT",
     "NTXUSDT",
     "OBIUSDT",
@@ -49,6 +54,8 @@
     "XFIUSDT",
     "XMNUSDT",
     "XRPCUSDT",
-    "XXUSDT"
+    "XXUSDT",
+    "旺柴USD1",
+    "旺柴USDT"
   ]
 }
