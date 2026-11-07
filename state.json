@@ -1,9 +1,6 @@
 {
   "st_symbols": [
     "ABBCUSDT",
-    "AGENCYUSD1",
-    "AGENCYUSDT",
-    "ALEXUSDT",
     "ASSUSDT",
     "BORDRUSD1",
     "BORDRUSDT",
@@ -14,9 +11,9 @@
     "DOPEUSD1",
     "DOPEUSDT",
     "ELFUSDT",
+    "EMBLEMUSDT",
     "FACTUSDT",
     "GODEUSDT",
-    "GTTUSDT",
     "HELIUSDT",
     "HNSUSDT",
     "IRONUSDT",
@@ -43,14 +40,12 @@
     "TAPEFOURUSDT",
     "TARAUSDT",
     "TRU1USDT",
-    "UMXMUSDT",
     "VEXUSDT",
     "WTAUSDT",
     "XFIUSDT",
     "XMNUSDT",
     "XRPCUSDT",
-    "XXUSDT",
-    "旺柴USD1",
-    "旺柴USDT"
+    "XUSDUSDT",
+    "XXUSDT"
   ]
 }
