@@ -2,8 +2,6 @@
   "st_symbols": [
     "ABBCUSDT",
     "ASSUSDT",
-    "BORDRUSD1",
-    "BORDRUSDT",
     "BZRUSDT",
     "CLAUSUSDT",
     "CROCUSDT",
@@ -38,14 +36,11 @@
     "SPACEMVCUSDT",
     "SPLDUSDT",
     "SRDSUSDT",
-    "TAPEFOURUSD1",
-    "TAPEFOURUSDT",
     "TARAUSDT",
     "TRU1USDT",
     "VEXUSDT",
     "WTAUSDT",
     "XFIUSDT",
-    "XMNUSDT",
     "XRPCUSDT",
     "XUSDUSDT",
     "XXUSDT"
