@@ -5,12 +5,16 @@
     "BANUSDT",
     "BATTERYUSDT",
     "BAXUSDT",
+    "BCATUSDT",
+    "BEAMUSDT",
     "BLUECHIPUSD1",
     "BLUECHIPUSDT",
     "BZRUSDT",
     "COCAUSDT",
+    "CPHUSDT",
     "CROSSUSDT",
     "DADDYUSDT",
+    "DARKUSD1",
     "DARKUSDT",
     "DEBUSDT",
     "DIONEUSDT",
@@ -28,6 +32,7 @@
     "LBCUSDT",
     "MASSUSDT",
     "MASUSDT",
+    "MUSEBOOKUSD1",
     "MUSEBOOKUSDT",
     "NATGUSDT",
     "NEROUSDT",
@@ -64,6 +69,7 @@
     "XENUSDT",
     "XFIUSDT",
     "XRPCUSDT",
-    "XXUSDT"
+    "XXUSDT",
+    "ZEPHUSDT"
   ]
 }
