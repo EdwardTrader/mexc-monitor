@@ -25,6 +25,7 @@
     "OPTIMUSUSDT",
     "PARTUSDT",
     "PENDULUMUSDT",
+    "PIBUSDT",
     "PIGUSDT",
     "PMGUSDT",
     "PPCUSDT",
@@ -36,6 +37,7 @@
     "TARAUSDT",
     "TORNUSDT",
     "TRU1USDT",
+    "UMXUSDT",
     "USDGOUSDT",
     "VEXUSDT",
     "WTAUSDT",
@@ -47,6 +49,7 @@
     "XRPCUSDT",
     "XXUSDT",
     "YOMUSDT",
+    "YVEUSDT",
     "ZEPHUSDT"
   ]
 }
