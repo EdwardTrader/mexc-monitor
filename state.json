@@ -28,6 +28,7 @@
     "IRONUSDT",
     "IXSUSDT",
     "KOMAUSDT",
+    "KULAUSDT",
     "LAUNCHUSD1",
     "LAUNCHUSDT",
     "LBCUSDT",
@@ -64,6 +65,7 @@
     "TTNUSDT",
     "UBIKUSD1",
     "UBIKUSDT",
+    "UDAOUSDT",
     "UMXUSDT",
     "USDGOUSDT",
     "VEXUSDT",
@@ -81,6 +83,7 @@
     "XXUSDT",
     "YVEUSDT",
     "ZEPHUSDT",
-    "ZETRIXUSDT"
+    "ZETRIXUSDT",
+    "ZOOMUSDT"
   ]
 }
