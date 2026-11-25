@@ -1,7 +1,6 @@
 {
   "st_symbols": [
     "ABBCUSDT",
-    "AGROUSDT",
     "AMOREUSDT",
     "ANAKINUSD1",
     "ANAKINUSDT",
@@ -80,6 +79,7 @@
     "STAMPUSDT",
     "SYLUSDT",
     "TARAUSDT",
+    "TICSUSDT",
     "TORCHUSD1",
     "TORCHUSDT",
     "TORNUSDT",
@@ -88,6 +88,8 @@
     "VEXUSDT",
     "VRAXUSD1",
     "VRAXUSDT",
+    "WAVESUSDC",
+    "WAVESUSDT",
     "WBTUSDT",
     "WHITEWHALEUSDT",
     "WTAUSDT",
